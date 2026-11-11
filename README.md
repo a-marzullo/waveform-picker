@@ -15,6 +15,7 @@ The code displays the waveform of one channel at a time, allowing the user to:
 
 The selected arrival times are stored while navigating between channels, allowing the user to review or modify previous selections.
 
+
 ## 2. Input Variables
 
 To run the code, the user must provide the waveform data, sampling frequency, and optionally the channel identifiers and previously selected arrival times.
@@ -52,6 +53,11 @@ picker = plot_single_channel_picking(
 Before running the function, set `output_dir` inside `plot_single_channel_picking()` to a valid directory, such as `"./saved_plots"`.
 
 ## 3. Output
+
+An example of the resulting interface:
+
+![alt text](https://github.com/a-marzullo/waveform-picker/blob/main/manual_picker%20(1).png "Example of the UI")
+
 
 After selecting the arrival times for the desired channels, the results can be retrieved using:
 
