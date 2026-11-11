@@ -56,7 +56,7 @@ Before running the function, set `output_dir` inside `plot_single_channel_pickin
 
 An example of the resulting interface:
 
-![alt text](https://github.com/a-marzullo/waveform-picker/blob/main/manual_picker%20(1).png "Example of the UI")
+!["Example of the UI"](https://github.com/a-marzullo/waveform-picker/blob/main/manual_picker%20(1).png)
 
 
 After selecting the arrival times for the desired channels, the results can be retrieved using:
