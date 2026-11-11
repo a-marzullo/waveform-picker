@@ -1,4 +1,3 @@
 # waveform-picker
-An interface for picking manual waveforms that fits inline in a jupyter notebook
+An interface for manually picking waveforms that fits inline in a jupyter notebook.
 =======
-Manual Picker
