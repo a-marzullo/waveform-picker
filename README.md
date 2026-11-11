@@ -23,7 +23,7 @@ The main function is called as follows:
 
 ```python
 my_channels = [0, 1, 2, 3, 4, 5]
-
+output_dir = '/home/user/Desktop/pick'
 picker = plot_single_channel_picking(
     data=data_chunk[my_channels, :],
     fs=fsAE,
